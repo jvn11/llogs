@@ -1,0 +1,6 @@
+src/
+.gitignore
+babel.config.json
+node_modules
+.npmignore
+logs.txt
