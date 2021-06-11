@@ -3,6 +3,7 @@
 > A logger that logs the information of your files, and puts all of the info in a generated text file.
 
 [![Coverage Status](https://coveralls.io/repos/github/jvn11/llogs/badge.svg?branch=main)](https://coveralls.io/github/jvn11/llogs?branch=main)
+[![Build Status](https://travis-ci.com/jvn11/llogs.svg?branch=main)](https://travis-ci.com/jvn11/llogs)
 
 ## Install
 
