@@ -4,3 +4,5 @@ babel.config.json
 node_modules
 .npmignore
 logs.txt
+.travis.yml
+.coveralls.yml
