@@ -4,6 +4,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/jvn11/llogs/badge.svg?branch=main)](https://coveralls.io/github/jvn11/llogs?branch=main)
 [![Build Status](https://travis-ci.com/jvn11/llogs.svg?branch=main)](https://travis-ci.com/jvn11/llogs)
+[![NPM Version](https://img.shields.io/npm/v/llogs.svg)](https://npmjs.com/package/llogs)
 
 ## Install
 
