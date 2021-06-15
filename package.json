@@ -1,6 +1,6 @@
 {
   "name": "llogs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A logger that logs the information of your files, and puts all of the info in a generated text file.",
   "main": "npm/run-script.js",
   "scripts": {

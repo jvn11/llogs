@@ -33,7 +33,7 @@
 Example:
 
 ```shell
-$ npx llog -f path/to/file.txt
+$ llogs -f path/to/file.txt
 ```
 
 ### `-d, --dir <dirname>`: Watches a directory
@@ -41,17 +41,18 @@ $ npx llog -f path/to/file.txt
 Example:
 
 ```shell
-$ npx llog -d path/to/dir
+$ llogs -d path/to/dir
 ```
 
-### Output
+### `-g, --genfile <name>`: Generates a text file with the given name. Default is llogs.
 
-<br />
+Example:
 
+```shell
+$ llogs -f for/this/example.gen.d.ts -g for-this-example-checker
 ```
-$ npx llog -d my/example/file.txt
-Ready for changes (howlong | timeinms)
-```
+
+Generates a file called `for-this-example-checker.txt`
 
 ## License
 
