@@ -5,6 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/jvn11/llogs/badge.svg?branch=main)](https://coveralls.io/github/jvn11/llogs?branch=main)
 [![Build Status](https://travis-ci.com/jvn11/llogs.svg?branch=main)](https://travis-ci.com/jvn11/llogs)
 [![NPM Version](https://img.shields.io/npm/v/llogs.svg)](https://npmjs.com/package/llogs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjvn11%2Fllogs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjvn11%2Fllogs?ref=badge_shield)
 
 ## Install
 
@@ -57,3 +58,5 @@ Generates a file called `for-this-example-checker.txt`
 ## License
 
 Under the MIT License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjvn11%2Fllogs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjvn11%2Fllogs?ref=badge_large)
