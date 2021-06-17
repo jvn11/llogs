@@ -1,11 +1,9 @@
 {
   "name": "llogs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A logger that logs the information of your files, and puts all of the info in a generated text file.",
   "main": "npm/run-script.js",
-  "scripts": {
-    "build": "babel src -d lib"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jvn11/llogs.git"
@@ -24,7 +22,7 @@
   },
   "homepage": "https://github.com/jvn11/llogs#readme",
   "bin": {
-    "llogs": "lib/index.js"
+    "llogs": "src/index.js"
   },
   "dependencies": {
     "app-root-path": "^3.0.0",
@@ -32,9 +30,5 @@
     "chokidar": "^3.5.1",
     "commander": "^7.2.0"
   },
-  "devDependencies": {
-    "@babel/cli": "^7.14.5",
-    "@babel/core": "^7.14.5",
-    "@babel/preset-env": "^7.14.5"
-  }
+  "devDependencies": {}
 }
